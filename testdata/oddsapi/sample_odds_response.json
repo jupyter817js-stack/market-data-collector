@@ -1,0 +1,112 @@
+[
+  {
+    "id": "fixture-event-prematch",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-05-06T20:00:00Z",
+    "home_team": "Boston Celtics",
+    "away_team": "Miami Heat",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-05-06T12:00:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Boston Celtics",
+                "price": 1.8
+              },
+              {
+                "name": "Miami Heat",
+                "price": 2.05
+              }
+            ]
+          },
+          {
+            "key": "spreads",
+            "last_update": "2026-05-06T12:03:00Z",
+            "outcomes": [
+              {
+                "name": "Boston Celtics",
+                "price": 1.91,
+                "point": -3.5
+              },
+              {
+                "name": "Miami Heat",
+                "price": 1.91,
+                "point": 3.5
+              }
+            ]
+          },
+          {
+            "key": "totals",
+            "outcomes": [
+              {
+                "name": "Over",
+                "price": 1.95,
+                "point": 214.5
+              },
+              {
+                "name": "Under",
+                "price": 1.87,
+                "point": 214.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "no_timestamps",
+        "title": "No Timestamps",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Boston Celtics",
+                "price": 1.83
+              },
+              {
+                "name": "Miami Heat",
+                "price": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fixture-event-live",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2026-05-06T11:00:00Z",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Denver Nuggets",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-05-06T12:02:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Los Angeles Lakers",
+                "price": 2.2
+              },
+              {
+                "name": "Denver Nuggets",
+                "price": 1.7
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

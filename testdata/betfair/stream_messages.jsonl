@@ -1,0 +1,3 @@
+{"op":"connection","connectionId":"conn-1","extra":"preserved"}
+{"op":"heartbeat","id":1,"clk":"clk-1"}
+{"op":"mcm","id":2,"clk":"clk-2","pt":1715000000000,"mc":[{"id":"1.234","marketDefinition":{"status":"OPEN","eventId":"event-1","name":"Match Odds","runners":[{"id":10,"name":"Home FC","status":"ACTIVE"},{"id":20,"name":"Away FC","status":"ACTIVE"}]},"rc":[[10,2.02],[20,1.98]],"unexpectedMarketField":true}],"unknownTopLevel":{"ok":true}}
